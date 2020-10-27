@@ -1,0 +1,6 @@
+framework module Pods_Floatingpanel_practiceTests {
+  umbrella header "Pods-Floatingpanel-practiceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
